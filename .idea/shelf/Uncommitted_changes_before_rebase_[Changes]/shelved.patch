@@ -1,0 +1,21 @@
+Index: Test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>fgkdfgkjsgskfjghs\nsdfsdfj\n\ngfejhfeijhföae\n\neergeg\n\nddsfkjdfklsdlfkj
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Test.txt b/Test.txt
+--- a/Test.txt	(revision cb02d8b1b5b82167ddeed2fb778bf9420d448f4c)
++++ b/Test.txt	(date 1729864122649)
+@@ -5,4 +5,7 @@
+ 
+ eergeg
+ 
+-ddsfkjdfklsdlfkj
+\ No newline at end of file
++ddsfkjdfklsdlfkj
++
++
++jfeorigjeiogjeorögihjöeorig
+\ No newline at end of file
